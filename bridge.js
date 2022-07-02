@@ -1,4 +1,1 @@
-function xmlParser(paramsXml, returnType) {
-  console.log(paramsXml);
-  console.log(returnType);
-}
+function xmlParser(paramsXml, returnType) {}
